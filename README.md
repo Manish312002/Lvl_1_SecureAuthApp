@@ -27,7 +27,7 @@ SecureAuthApp is a web application for user authentication, built using Express.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SecureAuthApp.git
+   git clone https://github.com/Manish312002/SecureAuthApp.git
    cd SecureAuthApp
 
 2. Install dependencies:
